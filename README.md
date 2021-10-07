@@ -15,16 +15,15 @@ npm install --save awesome-button
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'awesome-button'
-import 'awesome-button/dist/index.css'
+import Button from 'awesome-button'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <Button color="#ffffff" />
   }
 }
 ```
 
 ## License
 
-MIT © [gsasouza](https://github.com/gsasouza)
+MIT © [jpsecundino](https://github.com/jpsecundino)
