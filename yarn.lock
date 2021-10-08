@@ -3223,9 +3223,10 @@ color-string@^1.6.0:
     color-name "^1.0.0"
     simple-swizzle "^0.2.2"
 
-"color-variation@link:../color-variation":
-  version "0.0.0"
-  uid ""
+color-variation@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/color-variation/-/color-variation-1.0.1.tgz#aa6a630e80b7f91761082f66858cfd49e9cb0974"
+  integrity sha512-TsC3rxmukcWTvmiTT0g9R16Cb2ko3df+U/zpbm470PkD6A220J0WB0nm5eUaJDG7hHf3diluRQSQKvKftXT0pA==
 
 color@^3.0.0:
   version "3.2.1"
